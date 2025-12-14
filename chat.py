@@ -10,7 +10,7 @@ from nltk_utils import bag_of_words, tokenize
 
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
-with open('intents.json', 'r') as json_data:
+with open('intents.json', 'r', encoding='utf-8') as json_data:
     intents = json.load(json_data)
 
 FILE = "data_rnn.pth" 
@@ -110,14 +110,26 @@ def centres():
         distance = R * c
         return distance
 
-    # Get your current location based on your IP address
-    location = geocoder.ip('me')
-
-    # Given location (latitude and longitude)
-    given_location = location.latlng  # Replace with your desired location
+    # FIXFIX: Manuel olarak Istanbul koordinatları kullanılıyor
+    # Eğer kullanıcının gerçek konumunu almak isterseniz, geocoder.ip('me') kullanabilirsiniz
+    # Ancak IP bazlı konum her zaman doğru olmayabilir
+    
+    try:
+        location = geocoder.ip('me')
+        if location.latlng:
+            given_location = location.latlng
+            print(f"Detected location: {given_location}")
+        else:
+            # Eğer konum tespit edilemezse, varsayılan olarak Istanbul merkez kullan
+            given_location = [41.0082, 28.9784]  # Istanbul coordinates
+            print("Using default Istanbul location")
+    except:
+        # Hata durumunda Istanbul koordinatları kullan
+        given_location = [41.0082, 28.9784]  # Istanbul coordinates
+        print("Error detecting location, using Istanbul coordinates")
 
     # Load the JSON data
-    with open("medical_centers.json", "r") as json_file:
+    with open("medical_centers.json", "r", encoding='utf-8') as json_file:
         medical_centers = json.load(json_file)
 
     # Calculate distances to all medical centers
@@ -133,7 +145,7 @@ def centres():
 
     l = ["center"]
 
-
+    # En yakın 5 hastaneyi göster
     for i, (center_name, distance) in enumerate(distances_to_centers[:5], start=1):
         for center in medical_centers["intents"]:
             if center["tag"] == center_name:

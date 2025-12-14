@@ -1,716 +1,484 @@
 {
     "intents": [
         {
-            "tag": "A C Hospital, Chennai",
+            "tag": "Acıbadem Maslak Hastanesi",
             "location": [
-                13.0972,
-                80.2328
+                41.1086,
+                29.0271
             ],
-            "Address": "No-8, 3Rd Main Road, United India Nagar, Ayanavaram, Chennai-600023, Tamil Nadu, India"
+            "Address": "Büyükdere Cd. No:40, 34398 Sarıyer/Istanbul, Turkey"
         },
         {
-            "tag": "A.N.N Hospital, Chennai",
+            "tag": "Memorial Şişli Hastanesi",
             "location": [
-                13.0356,
-                80.1659
+                41.0602,
+                28.9887
             ],
-            "Address": "81-85, Annai Therasa Street, Valasaravakkam, Chennai, Tamil Nadu, India, 600087"
+            "Address": "Pİ Kaptanpaşa Mahallesi, Plevne Cd. 5A, 34384 Şişli/Istanbul, Turkey"
         },
         {
-            "tag": "A.V. Hospitals, Chennai",
+            "tag": "Amerikan Hastanesi",
             "location": [
-                13.1092,
-                80.2884
+                41.0818,
+                29.0265
             ],
-            "Address": "# 172, Solaiappan Street, Tondirepet (North Chennai) Near Maharani Theatre, Chennai, Tamil Nadu, India, 600021"
+            "Address": "Güzelbahçe Sk. No:20, 34365 Nişantaşı-Şişli/Istanbul, Turkey"
         },
         {
-            "tag": "Aakash Hospital, Chennai",
+            "tag": "Florence Nightingale Hastanesi",
             "location": [
-                13.1605,
-                80.3065
+                41.0891,
+                29.0258
             ],
-            "Address": "# 393/1, T.H. Road, Tiruvottiyur, Tiruvallur, Chennai, Tamil Nadu, India, 600019"
+            "Address": "Abide-i Hürriyet Cd. No:166, 34381 Şişli/Istanbul, Turkey"
         },
         {
-            "tag": "Abhijay Hospital (P) Ltd., Chennai",
+            "tag": "Liv Hospital Ulus",
             "location": [
-                13.1285,
-                80.2326
+                41.0501,
+                29.0093
             ],
-            "Address": "No.22/2, E.S.I Hospital Road, Peravallur, Chennai, Tamil Nadu, India, 600011"
+            "Address": "Ahmet Adnan Saygun Cd., 34340 Beşiktaş/Istanbul, Turkey"
         },
         {
-            "tag": "Aditya Hospital, Chennai",
+            "tag": "Koç Üniversitesi Hastanesi",
             "location": [
-                13.0792,
-                80.2376
+                41.1132,
+                29.0758
             ],
-            "Address": "No.7, Barnbay Road, Kilpauk, Chennai-600010, Tamil Nadu, India, 600010"
+            "Address": "Davutpaşa Cd. No:4, 34010 Topkapı-Zeytinburnu/Istanbul, Turkey"
         },
         {
-            "tag": "Adyar P.M. Hospital, Chennai",
+            "tag": "Medipol Mega Üniversite Hastanesi",
             "location": [
-                13.0062,
-                80.2569
+                40.9934,
+                28.8689
             ],
-            "Address": "# 58, L.B. Road, Adyar, Chennai-600020, Tamil Nadu, India, 600020"
+            "Address": "TEM Avrupa Otoyolu Göztepe Çıkışı No:1, 34214 Bağcılar/Istanbul, Turkey"
         },
         {
-            "tag": "Agash Nursing Home, Chennai",
+            "tag": "Acıbadem Altunizade Hastanesi",
             "location": [
-                12.9547,
-                80.1433
+                41.0229,
+                29.0596
             ],
-            "Address": "#234, G.S.T. Road, Chromepet, Chennai, Tamil Nadu, India, 600044"
+            "Address": "Kısıklı Mah. Alemdar Cd. No:1, 34692 Üsküdar/Istanbul, Turkey"
         },
         {
-            "tag": "Ak Hospital, Chennai",
+            "tag": "Memorial Ataşehir Hastanesi",
             "location": [
-                13.0732,
-                80.2183
+                40.9854,
+                29.1239
             ],
-            "Address": "360 Poonamallee High Road, Junction Of Ph Rd & Chennai, Tamil Nadu, India, 600029"
+            "Address": "Küçükbakkalköy Mah. Vedat Günyol Cd. No:1, 34750 Ataşehir/Istanbul, Turkey"
         },
         {
-            "tag": "Amma Hospital, Chennai",
+            "tag": "Medicana International Istanbul",
             "location": [
-                13.0679,
-                80.2425
+                41.0403,
+                29.0069
             ],
-            "Address": "# 1, Sowrastra Nagar7Th Street, Chennai, Tamil Nadu, India, 600094"
+            "Address": "Seyrantepe Mah. İbrahim Karaoğlanoğlu Cd. No:145, 34418 Kağıthane/Istanbul, Turkey"
         },
         {
-            "tag": "Amrit Medicare Pvt Ltd, Chennai",
+            "tag": "Acıbadem Kadıköy Hastanesi",
             "location": [
-                13.0901,
-                80.2814
+                40.9880,
+                29.0304
             ],
-            "Address": "No.310, Mint Street, Near Sowcarpet, Chennai-600079, Tamil Nadu, India, 600079"
+            "Address": "Hasanpaşa Mah. Fahrettin Kerim Gökay Cd. No:49, 34722 Kadıköy/Istanbul, Turkey"
         },
         {
-            "tag": "Anand Hospital, Chennai",
+            "tag": "Memorial Bahçelievler Hastanesi",
             "location": [
-                13.2024,
-                80.2786
+                41.0011,
+                28.8577
             ],
-            "Address": "201, Kamaraj Salai, Manali, Chennai, Tamil Nadu, India, 600068"
+            "Address": "Yenibosna Merkez Mah. Ladin Sk. No:4, 34197 Bahçelievler/Istanbul, Turkey"
         },
         {
-            "tag": "Andhra Mahila Sabha, Chennai",
+            "tag": "Acıbadem Fulya Hastanesi",
             "location": [
-                13.0253,
-                80.2639
+                41.0727,
+                29.0089
             ],
-            "Address": "No.11 & 12, Dr.Durgabaideshmukh Road, R.A.Puram, Chennai, Tamil Nadu, India, 600028"
+            "Address": "Dikilitaş Mah. Hakkı Yeten Cd. No:11, 34349 Beşiktaş/Istanbul, Turkey"
         },
         {
-            "tag": "Annamalai Hospital, Chennai",
+            "tag": "Liv Hospital Vadistanbul",
             "location": [
-                13.0395,
-                80.2195
+                41.1437,
+                28.8204
             ],
-            "Address": "# 27, Govindan Road, West Mambalam, Near Srinivasa Theatre, Chennai, Tamil Nadu, India, 600033"
+            "Address": "Ayazağa Mah. Cendere Cd. No:109 Vadistanbul Park, 34396 Sarıyer/Istanbul, Turkey"
         },
         {
-            "tag": "Apollo First Med Hospitals, Chennai",
+            "tag": "İstanbul Üniversitesi Cerrahpaşa Tıp Fakültesi",
             "location": [
-                13.0795,
-                80.2408
+                41.0034,
+                28.9482
             ],
-            "Address": "No 154, Poonamallee High Road, Near Neyveli House, Kilpauk, Chennai - 6000, Tamil Nadu, India, 600010"
+            "Address": "Kocamustafapaşa, Fatih Cd., 34098 Fatih/Istanbul, Turkey"
         },
         {
-            "tag": "Apollo Hospital (T.H.Road-Chennai), Chennai",
+            "tag": "Okmeydanı Eğitim ve Araştırma Hastanesi",
             "location": [
-                13.1112,
-                80.2828
+                41.0635,
+                28.9712
             ],
-            "Address": "#645, T.H.Road, Tondiarpet, Chennai, Tamil Nadu, India, 600081"
+            "Address": "Okmeydanı, Darülaceze Cd. No:25, 34384 Şişli/Istanbul, Turkey"
         },
         {
-            "tag": "Apollo Hospitals (Greams Road-Chennai), Chennai",
+            "tag": "Haseki Eğitim ve Araştırma Hastanesi",
             "location": [
-                13.0608,
-                80.2615
+                41.0096,
+                28.9501
             ],
-            "Address": "#21, Greams Lane, Greams Road, Chennai-600006, Tamil Nadu, India, 600006"
+            "Address": "Haseki Sultan Mah. Adnan Adivar Cd., 34096 Fatih/Istanbul, Turkey"
         },
         {
-            "tag": "Apollo Speciality Hospital (Chennai), Chennai",
+            "tag": "Bakırköy Dr. Sadi Konuk Eğitim ve Araştırma Hastanesi",
             "location": [
-                13.0287,
-                80.2405
+                40.9941,
+                28.8653
             ],
-            "Address": "No 320 5Th Floor, Padma Complex, Anna Salai, Near Lr Swami Building, Nandanam, Chennai, Tamil Nadu, India, 600035"
+            "Address": "Zuhuratbaba Mah. Tevfik Sağlam Cd. No:11, 34147 Bakırköy/Istanbul, Turkey"
         },
         {
-            "tag": "Appasamy Medicare Centre Pvt Ltd, Chennai",
+            "tag": "Şişli Hamidiye Etfal Eğitim ve Araştırma Hastanesi",
             "location": [
-                13.0803,
-                80.2132
+                41.0589,
+                28.9876
             ],
-            "Address": "23-25, Friends Avenue, Arumbakkam, Chennaiarumbakkam, Tamil Nadu, India, 600106"
+            "Address": "Halaskargazi Cd. Etfal Sk., 34371 Şişli/Istanbul, Turkey"
         },
         {
-            "tag": "Arokya Hospital, Chennai",
+            "tag": "Haydarpaşa Numune Eğitim ve Araştırma Hastanesi",
             "location": [
-                13.1052,
-                80.1601
+                41.0066,
+                29.0167
             ],
-            "Address": "#32, Pillayar Koil Street, Chennai, Tamil Nadu, India, 600078"
+            "Address": "Tıbbiye Cd. No:23, 34668 Üsküdar/Istanbul, Turkey"
         },
         {
-            "tag": "Aswene Soundra Hospital & Research Centre, Chennai",
+            "tag": "Kartal Dr. Lütfi Kırdar Eğitim ve Araştırma Hastanesi",
             "location": [
-                13.0343,
-                80.2552
+                40.9054,
+                29.1879
             ],
-            "Address": "# 24, Kasturi Rangan Road, Teynampet, Chennai, Tamil Nadu, India, 600018"
+            "Address": "Cevizli Mah. Tevfik İleri Cd., 34890 Kartal/Istanbul, Turkey"
         },
         {
-            "tag": "Athipathi Hospital And Research Center, Chennai",
+            "tag": "Gaziosmanpaşa Taksim Eğitim ve Araştırma Hastanesi",
             "location": [
-                12.9781,
-                80.2076
+                41.0402,
+                28.9869
             ],
-            "Address": "Plot No 1, 100 Ft Rd, Tanni Nagar, Velachary, Chennai, Tamil Nadu, India, 600042"
+            "Address": "Karayolları Mah. Osmanbey Cd., 34255 Gaziosmanpaşa/Istanbul, Turkey"
         },
         {
-            "tag": "Avm Medical Ent Research Foundation, Chennai",
+            "tag": "Çapa Tıp Fakültesi",
             "location": [
-                13.0344,
-                80.2663
+                41.0125,
+                28.9498
             ],
-            "Address": "3, P.S.S. Road, Mylapore, Chennai, Tamil Nadu, India, 600004"
+            "Address": "Millet Cd., 34093 Fatih/Istanbul, Turkey"
         },
         {
-            "tag": "Aysha Hospital, Chennai",
+            "tag": "Marmara Üniversitesi Pendik Eğitim ve Araştırma Hastanesi",
             "location": [
-                13.0813,
-                80.2458
+                40.8762,
+                29.2439
             ],
-            "Address": "91A Millers Road, Kilpauk, Chennai, Tamil Nadu, India, 600010"
+            "Address": "Fevzi Çakmak Mah. Muhsin Yazıcıoğlu Cd. No:10, 34899 Pendik/Istanbul, Turkey"
         },
         {
-            "tag": "B M Hospitals, Chennai",
+            "tag": "Acıbadem Atakent Hastanesi",
             "location": [
-                13.0893,
-                80.1969
+                41.0685,
+                28.7867
             ],
-            "Address": "36, 5Th Main Road, Thillai Ganga Nagar, Chennai, Tamil Nadu, India, 600061"
+            "Address": "Atatürk Mah. Ertuğrul Gazi Sk. No:7, 34303 Küçükçekmece/Istanbul, Turkey"
         },
         {
-            "tag": "B.B Hospital, Chennai",
+            "tag": "Acıbadem Taksim Hastanesi",
             "location": [
-                13.1349,
-                80.2174
+                41.0373,
+                28.9894
             ],
-            "Address": "No.52, Dayalu Nagar, Kolathur, Near Villirakham Railway Station, Chennai, Tamil Nadu, India, 600099"
+            "Address": "Gümüşsuyu Mah. Sıraselviler Cd. No:119, 34437 Beyoğlu/Istanbul, Turkey"
         },
         {
-            "tag": "B.M. Orthopaedic Hospital, Chennai",
+            "tag": "Anadolu Sağlık Merkezi",
             "location": [
-                13.1129,
-                80.1593
+                40.9892,
+                29.1194
             ],
-            "Address": "No.3/157, Mth Road, Ambattur, Chennai - 53, Tamil Nadu, India, 600053"
+            "Address": "Cumhuriyet Mah. 2255 Sk. No:3, 34758 Ataşehir/Istanbul, Turkey"
         },
         {
-            "tag": "B.S. Hospital, Chennai",
+            "tag": "VM Medical Park Florya Hastanesi",
             "location": [
-                12.9518,
-                80.1271
+                40.9794,
+                28.7854
             ],
-            "Address": "# 16, 3Rd Main Road, Chitlapakkam, Chennai, Tamil Nadu, India, 600064"
+            "Address": "Şenlikköy Mah. Yeşilköy Halkalı Cd. No:93, 34153 Bakırköy/Istanbul, Turkey"
         },
         {
-            "tag": "B.S.S. Hospital, Chennai",
+            "tag": "Medical Park Bahçelievler Hastanesi",
             "location": [
-                13.0254,
-                80.2637
+                41.0024,
+                28.8523
             ],
-            "Address": "New No 200, Old # 179/1, R.K. Mutt Road, Mandaveli, Chennai, Tamil Nadu, India, 600028"
+            "Address": "Bahçelievler Mah. Eski Londra Asfaltı Cd. No:7, 34180 Bahçelievler/Istanbul, Turkey"
         },
         {
-            "tag": "Babus Maternity Hospital, Chennai",
+            "tag": "Medical Park Göztepe Hastanesi",
             "location": [
-                12.9737,
-                80.1616
+                40.9867,
+                29.0845
             ],
-            "Address": "# 7, Doraisamy Reddy Street, Tabaram, Chennai, Tamil Nadu, India, 600045"
+            "Address": "Göztepe Mah. Kalamış Cad. No:14, 34730 Kadıköy/Istanbul, Turkey"
         },
         {
-            "tag": "Bagdi Nursing Home, Chennai",
+            "tag": "Yeditepe Üniversitesi Hastanesi",
             "location": [
-                13.0844,
-                80.2164
+                40.9656,
+                29.1346
             ],
-            "Address": "3Rd Floor, #10, Solaiappan Streett.Nagar, Chennai, Tamil Nadu, India, 600017"
+            "Address": "Devlet Yolu Ankara Cd. No:102-104, 34752 Ataşehir/Istanbul, Turkey"
         },
         {
-            "tag": "Balagangadhara Varma Nursing Home & Research Center, Chennai",
+            "tag": "Maltepe Üniversitesi Hastanesi",
             "location": [
-                13.2173,
-                80.3184
+                40.9277,
+                29.1439
             ],
-            "Address": "No 17, First Main Road, Narayanapuram, Tamil Nadu, India, 601302"
+            "Address": "Feyzullah Cd. No:39, 34844 Maltepe/Istanbul, Turkey"
         },
         {
-            "tag": "Bappu Clinic & Nursing Home, Chennai",
+            "tag": "İstinye Üniversitesi Liv Hospital",
             "location": [
-                12.9239,
-                80.1199
+                41.0501,
+                29.0093
             ],
-            "Address": "#46, Kalaingar Main Road, Srinivasa Nagar, Perungalatur, Chennai, Tamil Nadu, India, 600063"
+            "Address": "Şişli Liv Hospital, Teşvikiye Mah. Hakkı Yeten Cd., 34365 Şişli/Istanbul, Turkey"
         },
         {
-            "tag": "Bharath Hospital, Chennai",
+            "tag": "Bezmi Alem Vakıf Üniversitesi Hastanesi",
             "location": [
-                12.9754,
-                80.1875
+                41.0133,
+                28.9552
             ],
-            "Address": "# 72, I St Main Road, Nanganallur, Chennai, Tamil Nadu, India, 600061"
+            "Address": "Adnan Menderes Bulvarı (Vatan Cd.), 34093 Fatih/Istanbul, Turkey"
         },
         {
-            "tag": "Billroth Hospital Limited, Chennai",
+            "tag": "Sultan Abdülhamid Han Eğitim ve Araştırma Hastanesi",
             "location": [
-                13.0722,
-                80.2236
+                41.0201,
+                29.0531
             ],
-            "Address": "#43, Lakshmi Takis Rd, Shenoy Nagar, Chennai, Tamil Nadu, India, 600030"
+            "Address": "Selami Ali Mah. Tibbiye Cd. No:16, 34668 Üsküdar/Istanbul, Turkey"
         },
         {
-            "tag": "Billroth Hospitals - Ra Puram, Chennai",
+            "tag": "Ümraniye Eğitim ve Araştırma Hastanesi",
             "location": [
-                13.0249,
-                80.2584
+                41.0234,
+                29.1139
             ],
-            "Address": "#52, 2Nd Main Road, Raja Annamalai Puram, Raja Annamalai Puram, Chennai, Tamil Nadu, India, 600028"
+            "Address": "Elmalıkent Mah. Adem Yavuz Cd., 34764 Ümraniye/Istanbul, Turkey"
         },
         {
-            "tag": "Brs Hospital Pvt.Ltd, Chennai",
+            "tag": "Şişli Etfal Hastanesi",
             "location": [
-                13.0756,
-                80.2309
+                41.0589,
+                28.9876
             ],
-            "Address": "No.28. Cathedral Garden Road, Cathedral Gardens Road, Chennai, Tamil Nadu, India, 600034"
+            "Address": "Halaskargazi Cd., 34371 Şişli/Istanbul, Turkey"
         },
         {
-            "tag": "C.S.I. Kalyani General Hospital, Chennai",
+            "tag": "Göztepe Eğitim ve Araştırma Hastanesi",
             "location": [
-                13.0366,
-                80.2683
+                40.9801,
+                29.0822
             ],
-            "Address": "15, Dr. Radhakrishnan Salai, Mylapore, Chennai-600004, Next To City Centre, Tamil Nadu, India, 600004"
+            "Address": "Göztepe Mah. Dr. Erkin Cd., 34722 Kadıköy/Istanbul, Turkey"
         },
         {
-            "tag": "C.S.I. Rainy Multi-Speciality Hospital, Chennai",
+            "tag": "Fatih Sultan Mehmet Eğitim ve Araştırma Hastanesi",
             "location": [
-                13.0931,
-                80.2851
+                41.0591,
+                29.0538
             ],
-            "Address": "#45, G.A. Road, Chennai, Tamil Nadu, India, 600021"
+            "Address": "İçerenköy Mah. Balkan Cd. No:34, 34752 Ataşehir/Istanbul, Turkey"
         },
         {
-            "tag": "C.S.M Nursing Home, Chennai",
+            "tag": "Bağcılar Eğitim ve Araştırma Hastanesi",
             "location": [
-                13.0405,
-                80.2302
+                41.0365,
+                28.8572
             ],
-            "Address": "# 18, Rukmani Street, West Mambalam, Chennai, Tamil Nadu, India, 600033"
+            "Address": "Merkez Mah. Mimar Sinan Cd. No:6, 34200 Bağcılar/Istanbul, Turkey"
         },
         {
-            "tag": "Cauvery Trust Hospital, Chennai",
+            "tag": "Kanuni Sultan Süleyman Eğitim ve Araştırma Hastanesi",
             "location": [
-                13.1276,
-                80.2049
+                41.0262,
+                28.7952
             ],
-            "Address": "No.36, Ponnankinaru Street, Villivakkam, Chennai, Tamil Nadu, India, 600049"
+            "Address": "Atakent Mah. 1. Cd. No:9, 34303 Küçükçekmece/Istanbul, Turkey"
         },
         {
-            "tag": "Chennai Krishna Hospital, Chennai",
+            "tag": "Zeynep Kamil Kadın ve Çocuk Hastalıkları Hastanesi",
             "location": [
-                12.9585,
-                80.1429
+                41.0152,
+                29.0337
             ],
-            "Address": "No. 297, GST Road, Near MIT Flyover, Chromepet, Chennai, Tamilnadu, India, 600044"
+            "Address": "Burhaniye Mah. Zeynep Kamil Sk., 34668 Üsküdar/Istanbul, Turkey"
         },
         {
-            "tag": "Chennai Meenakshi Multispeciality Hospital Ltd., Chennai",
+            "tag": "Bezmialem Vakıf Üniversitesi Tıp Fakültesi Hastanesi",
             "location": [
-                13.0354,
-                80.2355
+                41.0133,
+                28.9552
             ],
-            "Address": "# 148, Luz Church Road, Malapore, Chennai, Tamil Nadu, India, 600004"
+            "Address": "Adnan Menderes Bulvarı, 34093 Fatih/Istanbul, Turkey"
         },
         {
-            "tag": "Chettinad Super Speciality Hospital (Cssh)-(A Unit Of Rajah Muthiah Charitable And Educational Trust), Chennai",
+            "tag": "Samatya Hastanesi",
             "location": [
-                12.8091,
-                80.2167
+                41.0089,
+                28.9354
             ],
-            "Address": "I.T. Highway, Kelambakkam, Tamil Nadu, India, 603103"
+            "Address": "Kocamustafapaşa Mah. Sofular Cd. No:1, 34098 Fatih/Istanbul, Turkey"
         },
         {
-            "tag": "Chitras Ent Laser Surgery Super Speciality Hospital, Chennai",
+            "tag": "Esenler Devlet Hastanesi",
             "location": [
-                13.0672,
-                80.2465
+                41.0434,
+                28.8765
             ],
-            "Address": "30C, Cathedral Garden Lane, Nungambakkam, Chennai, Tamil Nadu, India, 600034"
+            "Address": "Havaalanı Mahallesi, Türk Hava Yolları Cd. No:10, 34295 Esenler/Istanbul, Turkey"
         },
         {
-            "tag": "Christudas Orthopaedic Speciality Hospital, Chennai",
+            "tag": "Başakşehir Çam ve Sakura Şehir Hastanesi",
             "location": [
-                13.1057,
-                80.1921
+                41.1089,
+                28.8064
             ],
-            "Address": "#9, Duraiswamy Ngr. I.A.F. Road, Chennai, Tamil Nadu, India, 600059"
+            "Address": "Başakşehir Mahallesi, Olimpiyat Bulvarı, 34480 Başakşehir/Istanbul, Turkey"
         },
         {
-            "tag": "Darshan Surgical Centre Llp, Chennai",
+            "tag": "Sancaktepe Şehit Prof. Dr. İlhan Varank Eğitim ve Araştırma Hastanesi",
             "location": [
-                13.1384,
-                80.1907
+                41.0112,
+                29.2245
             ],
-            "Address": "Block T-80, New No-24 5Th Main Road, Chennai, Tamil Nadu, India, 600040"
+            "Address": "Emek Mah. Site Yolu Sk. No:5, 34785 Sancaktepe/Istanbul, Turkey"
         },
         {
-            "tag": "Deepam Hospital, Chennai",
+            "tag": "Pendik Bölge Eğitim ve Araştırma Hastanesi",
             "location": [
-                12.9323,
-                80.1123
+                40.8762,
+                29.2439
             ],
-            "Address": "#327, Muthurangam Road, Tambaram (West), Kanchipuram, West Tambaram, Chennai, Tamil Nadu, India, 600045"
+            "Address": "Fevzi Çakmak Mah. Muhsin Yazıcıoğlu Cd., 34899 Pendik/Istanbul, Turkey"
         },
         {
-            "tag": "Deepam Hospital Ltd, Chennai",
+            "tag": "Süleymaniye Kadın Doğum ve Çocuk Hastalıkları Hastanesi",
             "location": [
-                12.9874,
-                80.2605
+                41.0167,
+                28.9621
             ],
-            "Address": "30, Ayyasamy Street, Chennai, Tamil Nadu, India, 600044"
+            "Address": "Süleymaniye Mah., 34112 Fatih/Istanbul, Turkey"
         },
         {
-            "tag": "Deepam Hospital Ltd, Chennai",
+            "tag": "Liv Hospital Ankara",
             "location": [
-                12.9897,
-                80.2533
+                41.0727,
+                29.0089
             ],
-            "Address": "107-A, GST Road, Chennai, Tamil Nadu, India, 600044"
+            "Address": "Dikilitaş Mah. Hakkı Yeten Cd., 34349 Beşiktaş/Istanbul, Turkey"
         },
         {
-            "tag": "Doctor Rex'S Hospital, Chennai",
+            "tag": "Koşuyolu Yüksek İhtisas Eğitim ve Araştırma Hastanesi",
             "location": [
-                13.0706,
-                80.2407
+                40.9892,
+                29.0489
             ],
-            "Address": "# 37, Millers Road, Kilpauk, Chennai, Tamil Nadu, India, 600010"
+            "Address": "Koşuyolu Mah. Denizer Cd. Cevizli Kavsağı No:2, 34718 Kadıköy/Istanbul, Turkey"
         },
         {
-            "tag": "Dr Kamakshi National Hospital, Chennai",
+            "tag": "Silivri Devlet Hastanesi",
             "location": [
-                13.1004,
-                80.2878
+                41.0732,
+                28.2464
             ],
-            "Address": "No 12 Jaffer Serang Street, Second Line Beach, Chennai, Tamil Nadu, India, 600001"
+            "Address": "Piri Mehmet Paşa Mah. Hastane Cd. No:1, 34570 Silivri/Istanbul, Turkey"
         },
         {
-            "tag": "Dr. Arvind Vision Care, Chennai",
+            "tag": "Çatalca İlyas Çokay Devlet Hastanesi",
             "location": [
-                13.0919,
-                80.1647
+                41.1422,
+                28.4618
             ],
-            "Address": "#61, Reddy Palayam Road, Mogappair West, Chennai, Tamil Nadu, India, 600037"
+            "Address": "Ferhatpaşa Mah. Hastane Yolu Sk. No:2, 34540 Çatalca/Istanbul, Turkey"
         },
         {
-            "tag": "Dr. Grace George Hospital, Chennai",
+            "tag": "Şile Devlet Hastanesi",
             "location": [
-                13.1323,
-                80.0468
+                41.1763,
+                29.6104
             ],
-            "Address": "# 34, Udayavar Koil Street, Thirumizhisai, Poonamallee, Tamil Nadu, India, 600029"
+            "Address": "Balibey Mah. Balibey Cd., 34980 Şile/Istanbul, Turkey"
         },
         {
-            "tag": "Dr. Jacquline Divyananda (Divya Hospital), Chennai",
+            "tag": "Büyükçekmece Devlet Hastanesi",
             "location": [
-                12.9782,
-                80.2037
+                41.0211,
+                28.5843
             ],
-            "Address": "# 20, Medavakkam Main Road, Madipakkam, Chennai, Tamil Nadu, India, 600091"
+            "Address": "Ulus Mah. Hastane Cd., 34500 Büyükçekmece/Istanbul, Turkey"
         },
         {
-            "tag": "Dr. Mehta'S Multispeciality Hospital Pvt Ltd., Chennai",
+            "tag": "Avcılar Murat Kölük Devlet Hastanesi",
             "location": [
-                13.0661,
-                80.2395
+                40.9821,
+                28.7246
             ],
-            "Address": "2 (E), Mc. Nicholas Road, Chennai, Opposite To Chetpet Police Station, Tamil Nadu, India, 600031"
+            "Address": "Cihangir Mah. Mustafa Kemal Paşa Cd., 34310 Avcılar/Istanbul, Turkey"
         },
         {
-            "tag": "Dr. Rela Institute & Medical Centre, Chennai",
+            "tag": "Beylikdüzü Devlet Hastanesi",
             "location": [
-                13.1107,
-                80.1453
+                41.0012,
+                28.6454
             ],
-            "Address": "No. 7, CLC Works Road, Chromepet, Chennai, Tamil Nadu, India, 600044"
+            "Address": "Adnan Kahveci Mah. Cumhuriyet Cd. No:23, 34528 Beylikdüzü/Istanbul, Turkey"
         },
         {
-            "tag": "Dr. U Mohan Rau Memorial Hospital, Chennai",
+            "tag": "Sultangazi Haseki Eğitim ve Araştırma Hastanesi",
             "location": [
-                13.0282,
-                80.2644
+                41.1043,
+                28.8721
             ],
-            "Address": "#962, Poonamallee High Road, Near Motcham Theatre, Chennai, Tamil Nadu, India, 600084"
+            "Address": "Zübeyde Hanım Mah. 75. Yıl Cd., 34265 Sultangazi/Istanbul, Turkey"
         },
         {
-            "tag": "Esic Hospital, Chennai",
+            "tag": "Arnavutköy Devlet Hastanesi",
             "location": [
-                13.1066,
-                80.1839
+                41.1893,
+                28.7321
             ],
-            "Address": "# 32, Marshalls Road, Egmore, Chennai, Tamil Nadu, India, 600008"
+            "Address": "Merkez Mah. Hastane Cd., 34275 Arnavutköy/Istanbul, Turkey"
         },
         {
-            "tag": "Eswari Nursing Home, Chennai",
+            "tag": "Beykoz Devlet Hastanesi",
             "location": [
-                13.0795,
-                80.2045
+                41.1216,
+                29.0989
             ],
-            "Address": "# 1, 2Nd Main Road, Kasthurba Nagar, Adyar, Chennai, Tamil Nadu, India, 600020"
-        },
-        {
-            "tag": "Ethiraj Clinic & Nursing Home, Chennai",
-            "location": [
-                13.0726,
-                80.2534
-            ],
-            "Address": "40/1, E V K Sampath Road, Vepery, Chennai, Tamil Nadu, India, 600007"
-        },
-        {
-            "tag": "Frontier Lifeline Hospital, Chennai",
-            "location": [
-                13.0704,
-                80.1853
-            ],
-            "Address": "# 29, R-30C, Ambattur Industrial Estate Road, Chennai, Tamil Nadu, India, 600101"
-        },
-        {
-            "tag": "G.g. Hospital, Chennai",
-            "location": [
-                13.0921,
-                80.2869
-            ],
-            "Address": "# 6, E Block, 4Th Avenue, Anna Nagar East, Chennai, Tamil Nadu, India, 600102"
-        },
-        {
-            "tag": "G.g. Hospital (2), Chennai",
-            "location": [
-                13.0971,
-                80.2053
-            ],
-            "Address": "# 149, Grand Line, T.H. Road, Chennai, Tamil Nadu, India, 600118"
-        },
-        {
-            "tag": "G.j. Hospital & Trauma Centre Pvt Ltd., Chennai",
-            "location": [
-                12.9939,
-                80.2419
-            ],
-            "Address": "24-A, Halls Road, Egmore, Chennai, Tamil Nadu, India, 600008"
-        },
-        {
-            "tag": "G.S. Hospital, Chennai",
-            "location": [
-                13.1008,
-                80.2575
-            ],
-            "Address": "# 85, Greams Road, Chennai, Tamil Nadu, India, 600006"
-        },
-        {
-            "tag": "Gajanan Hospitals Pvt Ltd, Chennai",
-            "location": [
-                13.0871,
-                80.2162
-            ],
-            "Address": "#100, Poonamallee High Road, Chennai, Tamil Nadu, India, 600084"
-        },
-        {
-            "tag": "Ganga Nursing Home, Chennai",
-            "location": [
-                13.0527,
-                80.2506
-            ],
-            "Address": "#12, Khadar Nawaz Khan Road, Nungambakkam, Chennai, Tamil Nadu, India, 600034"
-        },
-        {
-            "tag": "Girishwari Hospital Pvt Ltd, Chennai",
-            "location": [
-                12.9822,
-                80.2528
-            ],
-            "Address": "#27, Gowtham Street, West Tambaram, Chennai, Tamil Nadu, India, 600045"
-        },
-        {
-            "tag": "Gkm Hospitals, Chennai",
-            "location": [
-                13.0644,
-                80.1962
-            ],
-            "Address": "# 120, 1St Main Road, Chennai, Tamil Nadu, India, 600099"
-        },
-        {
-            "tag": "Global Health City, Chennai",
-            "location": [
-                12.8234,
-                80.2427
-            ],
-            "Address": "# 439, Cheran Nagar, Perumbakkam, Chennai, Tamil Nadu, India, 600100"
-        },
-        {
-            "tag": "Government Hospital, Chennai",
-            "location": [
-                13.1159,
-                80.2868
-            ],
-            "Address": "No. 69, 1St Avenue, Shanti Colony, Anna Nagar, Chennai, Tamil Nadu, India, 600040"
-        },
-        {
-            "tag": "Grace Kennett Foundation Hospital, Chennai",
-            "location": [
-                13.1169,
-                80.1276
-            ],
-            "Address": "F1 & F2, Near Annai Arul Hospital, Kelambakkam, Chennai, Tamil Nadu, India, 603103"
-        },
-        {
-            "tag": "Govt. Peripheral Hospital, Chennai",
-            "location": [
-                13.0763,
-                80.2659
-            ],
-            "Address": "M.K.N. Road, Guindy, Chennai, Tamil Nadu, India, 600032"
-        },
-        {
-            "tag": "Gt Hospital (Sethu Foundation), Chennai",
-            "location": [
-                13.0629,
-                80.2437
-            ],
-            "Address": "# 14, Rajasekaran Street, Mylapore, Chennai, Tamil Nadu, India, 600004"
-        },
-        {
-            "tag": "Gurudeva Hospitals Pvt Ltd, Chennai",
-            "location": [
-                13.1493,
-                80.2718
-            ],
-            "Address": "# 33, 9Th Street, Lakshmipuram, Chennai, Tamil Nadu, India, 600099"
-        },
-        {
-            "tag": "H M Hospitals, Chennai",
-            "location": [
-                13.0736,
-                80.2412
-            ],
-            "Address": "# 48/1, Mannar Reddy Street, Chennai, Tamil Nadu, India, 600010"
-        },
-        {
-            "tag": "H.K. Hospital Pvt Ltd, Chennai",
-            "location": [
-                13.0541,
-                80.2733
-            ],
-            "Address": "#49, Kutchery Road, Mylapore, Chennai, Tamil Nadu, India, 600004"
-        },
-        {
-            "tag": "Hande Hospital, Chennai",
-            "location": [
-                13.0364,
-                80.2431
-            ],
-            "Address": "# 45, Lakshmi Talkies Road, Shenoy Nagar, Chennai, Tamil Nadu, India, 600030"
-        },
-        {
-            "tag": "Happy Times Nursing Home, Chennai",
-            "location": [
-                13.1026,
-                80.2517
-            ],
-            "Address": "# 92, Block B, Mmda Colony, Arumbakkam, Chennai, Tamil Nadu, India, 600106"
-        },
-        {
-            "tag": "Harvey Heart Hospitals Limited, Chennai",
-            "location": [
-                13.0723,
-                80.2152
-            ],
-            "Address": "# 24, Vth Main Road, Gandhi Nagar, Adyar, Chennai, Tamil Nadu, India, 600020"
-        },
-        {
-            "tag": "Hemoprime Hospitals, Chennai",
-            "location": [
-                13.0799,
-                80.2487
-            ],
-            "Address": "# 28, Perambur High Road, Chennai, Tamil Nadu, India, 600012"
-        },
-        {
-            "tag": "Hindu Mission Hospital, Chennai",
-            "location": [
-                12.9632,
-                80.2098
-            ],
-            "Address": "# 103, GST Road, Tambaram, Chennai, Tamil Nadu, India, 600045"
-        },
-        {
-            "tag": "Hindu Mission Hospital, Chennai",
-            "location": [
-                12.9254,
-                80.1384
-            ],
-            "Address": "# 103, GST Road, Tambaram, Chennai, Tamil Nadu, India, 600045"
-        },
-        {
-            "tag": "Hindu Mission Hospital, Chennai",
-            "location": [
-                12.9278,
-                80.1238
-            ],
-            "Address": "# 103, GST Road, Tambaram, Chennai, Tamil Nadu, India, 600045"
-        },
-        {
-            "tag": "Panimalar Medical College Hospital & Research Institute",
-            "location": [
-                13.0473,
-                80.0841
-            ],
-            "Address": "Varadharajapuram, Chennai Outer Ring Rd, Poonamallee, Chennai, Pidarithangal, Tamil Nadu 600123"
-        },
-        {
-            "tag": "Cure Well Hospital, Nazarathpettai, Tamil Nadu",
-            "location": [
-                13.0448,
-                80.0786
-            ],
-            "Address": "23VH+W6C, Bajanaikovil St, Nazarathpettai, Tamil Nadu 600069"
-        },
-        {
-            "tag": "S.S. Hospital, Nazarathpettai, Tamil Nadu",
-            "location": [
-                13.0476,
-                80.0807
-            ],
-            "Address": "23XJ+28V, Nazarathpettai, Tamil Nadu 600123"
-        },
-        {
-            "tag": "Aachi Hospital",
-            "location": [
-                13.0992,
-                80.1847
-            ],
-            "Address": "No:77, Thirumazhisai near: cake pie, 45, Chennai Tiruvallur High Rd, Chennai, Tamil Nadu 600124"
+            "Address": "Çubuklu Mah. Hidiv Yolu Cd. No:3, 34805 Beykoz/Istanbul, Turkey"
         }
     ]
 }
