@@ -12,14 +12,11 @@ body {
 }
 
 *, html {
-    /* 💜 MOR PREMIUM TEMASI */
-    --primaryGradient: linear-gradient(93.12deg, #581B98 0.52%, #9C1DE7 100%);
-    --secondaryGradient: linear-gradient(268.91deg, #581B98 -2.14%, #9C1DE7 99.69%);
-    --primaryBoxShadow: 0px 10px 15px rgba(156, 29, 231, 0.2);
-    --secondaryBoxShadow: 0px -10px 15px rgba(156, 29, 231, 0.2);
-    --primary: #9C1DE7;
-    --primaryLight: #B24EF3;
-    --primaryDark: #581B98;
+    --primaryGradient: linear-gradient(135deg, #52E5E7 10%, #0396FF 100%);
+    --secondaryGradient: linear-gradient(268.91deg, #52E5E7 -2.14%, #0396FF 99.69%);
+    --primaryBoxShadow: 0px 10px 15px rgba(0, 0, 0, 0.1);
+    --secondaryBoxShadow: 0px -10px 15px rgba(0, 0, 0, 0.1);
+    --primary: #0396FF;
 }
 
 /* CHATBOX
@@ -202,17 +199,11 @@ body {
     border: none;
     outline: none;
     border-radius: 50px;
-    box-shadow: 0px 10px 15px rgba(156, 29, 231, 0.3);
+    box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.1);
     cursor: pointer;
     position :absolute;
     top : 700px;
     left : 730px;
-}
-
-.chatbox__button button:hover {
-    background: var(--primaryLight);
-    transform: scale(1.05);
-    transition: all 0.3s ease;
 }
 
 .respondcard {
@@ -273,19 +264,19 @@ body {
 }
 
 .hospital-clickable:hover {
-    background-color: #F3E5F5 !important;
-    border-color: #9C1DE7;
+    background-color: #e3f2fd !important;
+    border-color: #1976d2;
     transform: translateY(-2px);
-    box-shadow: 0 6px 12px 0 rgba(156, 29, 231, 0.3);
+    box-shadow: 0 6px 12px 0 rgba(25, 118, 210, 0.3);
 }
 
 .hospital-clickable:active {
     transform: translateY(0);
-    box-shadow: 0 2px 4px 0 rgba(156, 29, 231, 0.3);
+    box-shadow: 0 2px 4px 0 rgba(25, 118, 210, 0.3);
 }
 
 .hospital-clickable strong {
-    color: #9C1DE7;
+    color: #1976d2;
     font-size: 18px;
 }
 
@@ -309,5 +300,4 @@ body {
 
 .hospital-clickable:hover span {
     animation: pulse 1s infinite;
-    color: #9C1DE7 !important;
 }

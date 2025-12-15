@@ -12,14 +12,14 @@ body {
 }
 
 *, html {
-    /* 💜 MOR PREMIUM TEMASI */
-    --primaryGradient: linear-gradient(93.12deg, #581B98 0.52%, #9C1DE7 100%);
-    --secondaryGradient: linear-gradient(268.91deg, #581B98 -2.14%, #9C1DE7 99.69%);
-    --primaryBoxShadow: 0px 10px 15px rgba(156, 29, 231, 0.2);
-    --secondaryBoxShadow: 0px -10px 15px rgba(156, 29, 231, 0.2);
-    --primary: #9C1DE7;
-    --primaryLight: #B24EF3;
-    --primaryDark: #581B98;
+    /* ❤️ KIRMIZI ACİL SERVİS TEMASI */
+    --primaryGradient: linear-gradient(135deg, #FF5722 10%, #F44336 100%);
+    --secondaryGradient: linear-gradient(268.91deg, #FF5722 -2.14%, #F44336 99.69%);
+    --primaryBoxShadow: 0px 10px 15px rgba(244, 67, 54, 0.2);
+    --secondaryBoxShadow: 0px -10px 15px rgba(244, 67, 54, 0.2);
+    --primary: #F44336;
+    --primaryLight: #FF5722;
+    --primaryDark: #D32F2F;
 }
 
 /* CHATBOX
@@ -202,7 +202,7 @@ body {
     border: none;
     outline: none;
     border-radius: 50px;
-    box-shadow: 0px 10px 15px rgba(156, 29, 231, 0.3);
+    box-shadow: 0px 10px 15px rgba(244, 67, 54, 0.3);
     cursor: pointer;
     position :absolute;
     top : 700px;
@@ -273,19 +273,19 @@ body {
 }
 
 .hospital-clickable:hover {
-    background-color: #F3E5F5 !important;
-    border-color: #9C1DE7;
+    background-color: #FFEBEE !important;
+    border-color: #F44336;
     transform: translateY(-2px);
-    box-shadow: 0 6px 12px 0 rgba(156, 29, 231, 0.3);
+    box-shadow: 0 6px 12px 0 rgba(244, 67, 54, 0.3);
 }
 
 .hospital-clickable:active {
     transform: translateY(0);
-    box-shadow: 0 2px 4px 0 rgba(156, 29, 231, 0.3);
+    box-shadow: 0 2px 4px 0 rgba(244, 67, 54, 0.3);
 }
 
 .hospital-clickable strong {
-    color: #9C1DE7;
+    color: #F44336;
     font-size: 18px;
 }
 
@@ -309,5 +309,5 @@ body {
 
 .hospital-clickable:hover span {
     animation: pulse 1s infinite;
-    color: #9C1DE7 !important;
+    color: #F44336 !important;
 }

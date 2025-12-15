@@ -12,14 +12,14 @@ body {
 }
 
 *, html {
-    /* 💜 MOR PREMIUM TEMASI */
-    --primaryGradient: linear-gradient(93.12deg, #581B98 0.52%, #9C1DE7 100%);
-    --secondaryGradient: linear-gradient(268.91deg, #581B98 -2.14%, #9C1DE7 99.69%);
-    --primaryBoxShadow: 0px 10px 15px rgba(156, 29, 231, 0.2);
-    --secondaryBoxShadow: 0px -10px 15px rgba(156, 29, 231, 0.2);
-    --primary: #9C1DE7;
-    --primaryLight: #B24EF3;
-    --primaryDark: #581B98;
+    /* 💚 SAĞLIK YEŞİLİ TEMASI */
+    --primaryGradient: linear-gradient(135deg, #57EB9A 10%, #28C76F 100%);
+    --secondaryGradient: linear-gradient(268.91deg, #57EB9A -2.14%, #28C76F 99.69%);
+    --primaryBoxShadow: 0px 10px 15px rgba(40, 199, 111, 0.2);
+    --secondaryBoxShadow: 0px -10px 15px rgba(40, 199, 111, 0.2);
+    --primary: #28C76F;
+    --primaryLight: #57EB9A;
+    --primaryDark: #1FA55A;
 }
 
 /* CHATBOX
@@ -202,7 +202,7 @@ body {
     border: none;
     outline: none;
     border-radius: 50px;
-    box-shadow: 0px 10px 15px rgba(156, 29, 231, 0.3);
+    box-shadow: 0px 10px 15px rgba(40, 199, 111, 0.3);
     cursor: pointer;
     position :absolute;
     top : 700px;
@@ -273,19 +273,19 @@ body {
 }
 
 .hospital-clickable:hover {
-    background-color: #F3E5F5 !important;
-    border-color: #9C1DE7;
+    background-color: #E8F5E9 !important;
+    border-color: #28C76F;
     transform: translateY(-2px);
-    box-shadow: 0 6px 12px 0 rgba(156, 29, 231, 0.3);
+    box-shadow: 0 6px 12px 0 rgba(40, 199, 111, 0.3);
 }
 
 .hospital-clickable:active {
     transform: translateY(0);
-    box-shadow: 0 2px 4px 0 rgba(156, 29, 231, 0.3);
+    box-shadow: 0 2px 4px 0 rgba(40, 199, 111, 0.3);
 }
 
 .hospital-clickable strong {
-    color: #9C1DE7;
+    color: #28C76F;
     font-size: 18px;
 }
 
@@ -309,5 +309,5 @@ body {
 
 .hospital-clickable:hover span {
     animation: pulse 1s infinite;
-    color: #9C1DE7 !important;
+    color: #28C76F !important;
 }
